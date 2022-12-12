@@ -1,0 +1,96 @@
+#mondrian {
+    width: 500px;
+    height: 500px;
+    background-color: darkmagenta;
+    border-color: black;
+    border-style: solid;
+    border-width: 8px;
+    border-radius: 2px;
+    box-shadow: 18px 10px 12px #aaa;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.black{
+    background-color: black;
+}
+#left-side{
+    background-color: brown;
+    width: 50%;
+    height: 80%;
+}
+#right-side{
+    background-color: blue;
+    width: 100%;
+    height:80%;
+}
+#bottom-side{
+    background-color: orange;
+    height: 20%;
+    width: 100%;
+}
+#first-little-box{
+    background-color: yellow;
+    height: 35%;
+    width: 68%;
+    border-bottom: 6px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+}
+#second-little-box{
+    background-color: bisque;
+    width: 30%;
+    height: 80%;
+}
+#third-little-box{
+    background-color: cadetblue;
+    height: 20%;
+    width: 30%;
+}
+#fourth-little-box{
+    background-color: purple;
+    width: 60%;
+    height: 80%;
+}
+#fifth-little-box{
+    background-color: red;
+    width: 60%;
+    height: 19%;
+    border-bottom: 0px;
+    border-top: 4px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+
+}
+#first-line, #second-line{
+    background-color: black;
+    height: 2%;
+    width: 100%;
+}
+#third-line{
+    background-color: black;
+    height: 100%;
+    width: 2%;
+}
+#fourth-line, #fifth-line{
+    background-color: black;
+    height: 100%;
+    width: 6%; 
+}
+#sixth-line, #seventh-line{
+    background-color: black;
+    height: 100%;
+    width: 1.5%;
+}
+#eighth-line, #ninth-line{
+    background-color: black;
+    height: 6%;
+    width: 100%;
+}
+
